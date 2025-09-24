@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 💱 Conversor de Moedas
 
 Um projeto simples e elegante para conversão de moedas estrangeiras para Real Brasileiro, desenvolvido durante a trilha Fullstack da Rocketseat com foco no aprendizado de JavaScript.
